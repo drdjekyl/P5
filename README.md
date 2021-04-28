@@ -1,4 +1,4 @@
-#Client segmentation for Olist - Brasilian leader in e-commerce
+# Client segmentation for Olist - Brasilian leader in e-commerce
 
 Dataset: https://www.kaggle.com/olistbr/brazilian-ecommerce
 
