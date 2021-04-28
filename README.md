@@ -5,7 +5,7 @@ Dataset: https://www.kaggle.com/olistbr/brazilian-ecommerce
 Context/Scenario: Olist wants you to provide customer segmentation to its marketing team and use the segmentation in their daily communication campaigns.
 Your objective is to understand the different types of users through their behaviour and personal data.
 
-Problem: Find client segmentation to help marketing department
+Problem: Define client segmentation through users behaviour and personal data.
 
 Methods:
 1. Explore the 9 datasets
